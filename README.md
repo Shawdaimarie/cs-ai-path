@@ -78,3 +78,9 @@ Contributions are welcome and held to a deliberately high standard. A resource i
 ## License
 
 Curriculum text is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Any code in this repository is licensed under [MIT](LICENSE).
+
+## Reproducible learning milestones
+
+For each topic, record the source and access date, one independently written explanation, one runnable exercise, its expected output, and a short reflection on failed attempts. Keep planned, in-progress, and completed work separate. A linked course or book is a resource, not evidence of course completion or university affiliation.
+
+Before sharing changes, run `python tests/test_internal_links.py`. Review external resources manually when access is restricted; record “restricted” rather than calling the link broken. Software projects should also include their own tests and environment instructions.
